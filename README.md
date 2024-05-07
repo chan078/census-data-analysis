@@ -65,8 +65,8 @@ Here are some of the key visualizations:
 
 The EDA provided several insights into the dataset. Some of the key findings include:
 
-Age seems to be a significant factor in determining salary, with older individuals generally earning more.
-Education does not guarantee a high salary, as evidenced by the finding that not all high earners have at least a high school education.
-Marital status also appears to correlate with salary, with married men having a higher likelihood of earning above 50K.
-The dataset is predominantly composed of individuals from the United States, with very few individuals from other countries like Germany around 0.42%.
-The hours-per-week column ranges from 1 to 99 with an average of approximately 40.44. The average working hours differ for high and low earners, and this difference also varies by country. For eaxample, In Japan, individuals who earn more than 50K per year work longer hours on average compared to those who earn less. The maximum number of hours a person works per week is 99.
+- Age seems to be a significant factor in determining salary, with older individuals generally earning more.
+- Education does not guarantee a high salary, as evidenced by the finding that not all high earners have at least a high school education.
+- Marital status also appears to correlate with salary, with married men having a higher likelihood of earning above 50K.
+- The dataset is predominantly composed of individuals from the United States, with very few individuals from other countries like Germany around 0.42%.
+- The hours-per-week column ranges from 1 to 99 with an average of approximately 40.44. The average working hours differ for high and low earners, and this difference also varies by country. For eaxample, In Japan, - individuals who earn more than 50K per year work longer hours on average compared to those who earn less. The maximum number of hours a person works per week is 99.
