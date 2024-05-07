@@ -59,7 +59,7 @@ Here are some of the key visualizations:
 
 ## Visualization 5: Bar Plot of Education vs Salary
 
-![Bar Plot of Education vs Salary](./img/img.png)
+![Bar Plot of Education vs Salary](./img/img5.png)
 
 ## EDA Conclusions
 
